@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SweetBonanza</string>
+    <string name="play">Confirm</string>
+    <string name="play1">Play</string>
+    <string name="paswordhint">Enter Your Password</string>
+    <string name="label1">Player</string>
+    <string name="label2">Password</string>
+    <string name="namehint">Enter Your Name</string>
+    <string name="wallethint">  Change It</string>
+    <string name="wallet">Credits</string>
+    <string name="turn">Rotate</string>
+    <string name="spin">Free Spin Left</string>
+    <string name="mail">Enter Your E-mail Address</string>
+    <string name="mailpasword">Enter Your Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="buying">BUY</string>
+
+    <string-array name="Elmasname">
+        <item>10 Diamond</item>
+        <item>20 Diamond</item>
+        <item>30 Diamond</item>
+        <item>40 Diamond</item>
+        <item>50 Diamond</item>
+        <item>60 Diamond</item>
+        <item>70 Diamond</item>
+        <item>80 Diamond</item>
+
+    </string-array>
+    <string-array name="Elmastl">
+        <item>10 TL</item>
+        <item>18 TL</item>
+        <item>27 TL</item>
+        <item>35 TL</item>
+        <item>45 TL</item>
+        <item>58 TL</item>
+        <item>69 TL</item>
+        <item>72 TL</item>
+    </string-array>
+</resources>
